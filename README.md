@@ -1,7 +1,7 @@
 # Business Site
 
-Group project with Vera, Johanna, Hanna and Camilla (Bootcamp introdays
-Start by briefly describing the assignment in a sentence or two. Keep it short and to the point.
+Group project with Vera, Johanna, Hanna and Camilla (Bootcamp introdays)
+
 
 ## The problem
 
